@@ -1,0 +1,7 @@
+This directory contains app images and subject banner images.
+
+Placeholder files for:
+- app_icon.png
+- app_logo.png
+- subjects/*_banner.jpg
+- streams/*_icon.png

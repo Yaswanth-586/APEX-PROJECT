@@ -1,0 +1,2 @@
+C:/Users/Yaswanth Yash/cursor ai/android/app/.cxx/Debug/t2q5k2k6/x86/CMakeFiles/edit_cache.dir
+C:/Users/Yaswanth Yash/cursor ai/android/app/.cxx/Debug/t2q5k2k6/x86/CMakeFiles/rebuild_cache.dir

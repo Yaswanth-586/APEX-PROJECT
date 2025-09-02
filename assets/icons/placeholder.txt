@@ -1,0 +1,8 @@
+This directory contains app icons and stream icons.
+
+Placeholder files for:
+- app_icon.png
+- intermediate_icon.png
+- btech_icon.png
+- degree_icon.png
+- sem1_icon.png through sem8_icon.png

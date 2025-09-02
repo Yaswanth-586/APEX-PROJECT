@@ -1,0 +1,2 @@
+C:/Users/Yaswanth Yash/cursor ai/android/app/.cxx/Debug/t2q5k2k6/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Yaswanth Yash/cursor ai/android/app/.cxx/Debug/t2q5k2k6/armeabi-v7a/CMakeFiles/rebuild_cache.dir
